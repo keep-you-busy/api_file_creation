@@ -1,0 +1,1 @@
+web: sh -c 'pip install -r requirements.txt && cd backend && python manage.py runserver'
